@@ -1,0 +1,2 @@
+# array-program
+DAY 2 100 DAYS OF CODING CHALLENGE
